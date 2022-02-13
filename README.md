@@ -1,6 +1,6 @@
-# computer_vision
+# COMPUTER VISION
  
->### Our project is based on training using CNN and deep nueral networks. In this project we have used MTCNN to create the model and then we used the training data to train the model.
+In this project we trained a CNN using tensorflow for **gender classification** using images, and using the pre-trained **MTCNN** model we devloped a pipeline which detects all human faces in a image and classify them based on gender.
 >
 >### Our Project is divided into the following parts:-
 >1. Detecting faces in an image and printing the number of faces detected in the image
