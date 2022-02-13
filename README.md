@@ -2,9 +2,9 @@
  
 In this project we trained a CNN using tensorflow for **gender classification** using images, and using the pre-trained **MTCNN** model we devloped a pipeline which detects all human faces in a image and classify them based on gender.
 >
->### Our Project is divided into the following parts:-
->1. Detecting faces in an image and printing the number of faces detected in the image
->2. Predicting the gender of the detected person as male or female based on the facial appearance.
+### Our Project is divided into the following parts:-
+1. Detecting faces in an image and printing the number of faces detected in the image
+2. Predicting the gender of the detected person as male or female based on the facial appearance.
  
 ## 1. Face Detection
  
@@ -62,8 +62,8 @@ This is performed using tensorflow.
 ### **Tensorflow**
 TensorFlow is an end-to-end open source platform for machine learning. It has a comprehensive, flexible ecosystem of tools, libraries and community resources that lets researchers push the state-of-the-art in ML and developers easily build and deploy ML powered applications.
  
->### Training Dataset: 
-> https://www.kaggle.com/cashutosh/gender-classification-dataset
+### Training Dataset: 
+ https://www.kaggle.com/cashutosh/gender-classification-dataset
  
 Example-
 <img src="example.png"
